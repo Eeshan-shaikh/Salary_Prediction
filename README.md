@@ -15,6 +15,10 @@ It uses a **Gradient Boosting Regressor** trained on a synthetic large dataset w
 ✔️ Automatic preprocessing (StandardScaler + OneHotEncoder)  
 ✔️ Gradient Boosting with strong performance (R² ≈ 0.97)  
 ✔️ Easy to run locally or deploy on Streamlit Cloud  
+---
+
+## Try it out on Streamlit:
+https://salaryprediction-7.streamlit.app/
 
 ---
 
@@ -59,4 +63,6 @@ RMSE: ~5,038
 R² Score: 0.9704
 
 (Based on 80/20 train-test split.)
+
+
 
